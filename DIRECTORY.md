@@ -515,6 +515,7 @@
   * [Logistic Regression](machine_learning/logistic_regression.py)
   * Lstm
     * [Lstm Prediction](machine_learning/lstm/lstm_prediction.py)
+  * [Mfcc](machine_learning/mfcc.py)
   * [Multilayer Perceptron Classifier](machine_learning/multilayer_perceptron_classifier.py)
   * [Polynomial Regression](machine_learning/polynomial_regression.py)
   * [Scoring Functions](machine_learning/scoring_functions.py)
